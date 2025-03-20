@@ -1,8 +1,8 @@
 Here’s your **full to-do list** for building your **React portfolio**:
 
 ### **1. Project Setup**
-- [ ] Initialize a React app (`npx create-react-app my-portfolio`)
-- [ ] Install necessary dependencies (`react-router-dom`, `framer-motion`, `shadcn/ui` )
+- [x ] Initialize a React app (`npx create-react-app my-portfolio`)
+- [ x] Install necessary dependencies (`react-router-dom`, `framer-motion`, `shadcn/ui` )
 - [ ] Set up React Router for navigation  
 
 ### **2. Layout and Routing**
