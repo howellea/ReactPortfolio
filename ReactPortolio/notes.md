@@ -3,13 +3,13 @@ Here’s your **full to-do list** for building your **React portfolio**:
 ### **1. Project Setup**
 - [x ] Initialize a React app (`npx create-react-app my-portfolio`)
 - [ x] Install necessary dependencies (`react-router-dom`, `framer-motion`, `shadcn/ui` )
-- [ ] Set up React Router for navigation  
+- [ x] Set up React Router for navigation  
 
 ### **2. Layout and Routing**
 - [ ] Create a **Header** with:
   - [ ] Developer's name
-  - [ ] Navigation links: **About Me, Portfolio, Contact, Resume**
-  - [ ] Highlight the active section  
+  - [x ] Navigation links: **About Me, Portfolio, Contact, Resume**
+  - [ x] Highlight the active section  
 - [ ] Create a **Footer** with:
   - [ ] Links to GitHub, LinkedIn, and another platform (Stack Overflow, Twitter, etc.)  
 - [ ] Set up **React Router** for section-based navigation without reloading  

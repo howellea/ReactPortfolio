@@ -11,7 +11,7 @@ import AboutMePage from './Pages/AboutMePage';
 import PortfolioPage from './Pages/PortfolioPage';
 import ConactPage from './Pages/ContactPage';
 import ResumePage from './Pages/ResumePage';
-import ErrorPage from './pages/ErrorPage';
+import ErrorPage from './Pages/ErrorPage';
 
 
 // Define the accessible routes, and which components respond to which URL
