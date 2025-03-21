@@ -5,11 +5,6 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 
-import PortfolioLogo from '../images/PortfolioLogo.png';
-
-
-export default Header;
-
 // Bringing in the pages the router will use to conditionally show the appropriate views
 import App from './App';
 import AboutMePage from './Pages/AboutMePage';
@@ -26,10 +21,6 @@ const router = createBrowserRouter([
     element: <App />,
     errorElement: <ErrorPage />,
     children: [
-      {
-        index: true,
-        element: <img src={PortfolioLogo} alt="Avatar" />,
-      },
       {
         index: true,
         element: <AboutMePage />,
