@@ -10,9 +10,9 @@ Here’s your **full to-do list** for building your **React portfolio**:
   - [ ] Developer's name
   - [x ] Navigation links: **About Me, Portfolio, Contact, Resume**
   - [ x] Highlight the active section  
-- [ ] Create a **Footer** with:
-  - [ ] Links to GitHub, LinkedIn, and another platform (Stack Overflow, Twitter, etc.)  
-- [ ] Set up **React Router** for section-based navigation without reloading  
+- [x ] Create a **Footer** with:
+  - [ x] Links to GitHub, LinkedIn, and another platform (Stack Overflow, Twitter, etc.)  
+- [x ] Set up **React Router** for section-based navigation without reloading  
 
 ### **3. About Me Section**
 - [ ] Display a **recent photo or avatar**  

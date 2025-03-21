@@ -9,8 +9,6 @@ import './index.css';
 import App from './App';
 import AboutMePage from './Pages/AboutMePage';
 import PortfolioPage from './Pages/PortfolioPage';
-import ConactPage from './Pages/ContactPage';
-import ResumePage from './Pages/ResumePage';
 import ErrorPage from './Pages/ErrorPage';
 
 
@@ -22,20 +20,12 @@ const router = createBrowserRouter([
     errorElement: <ErrorPage />,
     children: [
       {
-        index: true,
+        index: '/',
         element: <AboutMePage />,
       },
       {
         path: 'portfolio',
         element: <PortfolioPage />,
-      },
-      {
-        path: 'contact',
-        element: <ConactPage />,
-      },
-      {
-        path: 'resume',
-        element: <ResumePage />,
       },
     ],
   },
